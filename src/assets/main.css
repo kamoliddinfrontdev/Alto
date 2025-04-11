@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+/* Fon uchun: yumshoq, toza va tuxumni eslatuvchi fon. */
+.color-Cream{
+    color: #FFF8E7 ;
+
+}
+/* Aksiya tugmalari va muhim joylar uchun: diqqat tortuvchi sariq. */
+.color-Golden{
+    color:#F4C430 ;
+}
+/* Matn yoki ikonka uchun: ishonchli va tabiiy ko‘rinish. */
+.color-WarmBrown{
+    color: #8B5E3C;
+}
+/* Fon kontrasti yoki borderlar uchun. */
+.color-SoftGray{
+    color: #D9D9D9;
+}
+/* Asosiy matn uchun: o‘qilishi oson. */
+.color-darkCharcoal{
+    color: #333333;
+}
+.color-stoneGray{
+    color: #C1B6A3;
+}
+
+
+
+
+/* Fon uchun: yumshoq, toza va tuxumni eslatuvchi fon. */
+.bg-Cream{
+    background-color: #FFF8E7;
+}
+/* Aksiya tugmalari va muhim joylar uchun: diqqat tortuvchi sariq. */
+.bg-Golden{
+    background-color: #F4C430;
+}
+/* Matn yoki ikonka uchun: ishonchli va tabiiy ko‘rinish. */
+.bg-WarmBrown{
+    background-color: #8B5E3C;
+}
+/* Fon kontrasti yoki borderlar uchun. */
+.bg-SoftGray{
+    background-color: #D9D9D9;
+}
+/* Asosiy matn uchun: o‘qilishi oson. */
+.bg-darkCharcoal{
+    background-color: #333333;
+}
+/* Fon uchun: toq , toza va tuxumni eslatuvchi fon. */
+.bg-stoneGray{
+    background-color: #C1B6A3;
+}
