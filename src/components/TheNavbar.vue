@@ -22,7 +22,7 @@ const options = [
       <!-- Navigation Links -->
       <div class="flex items-center space-x-6">
         <a href="#" class="text-white hover:text-gray-300 transition">Bosh sahifa</a>
-        <a href="#" class="text-white hover:text-gray-300 transition">Biz haqimizda</a>
+        <a href="#" class="text-white hover:text-gray-300 transition">Biz haqimizdagit commit -m "first commit"</a>
         <el-select
           v-model="value"
           placeholder="Select"
